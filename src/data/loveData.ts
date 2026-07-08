@@ -43,19 +43,19 @@ export const loveData = {
     "Aku membuat tempat kecil ini untuk kita. Tempat yang menyimpan kenangan, cerita, hal-hal yang aku suka darimu, dan semua harapan tentang masa depan yang ingin kita jalani bersama. Karena ada beberapa perasaan yang rasanya pantas punya tempatnya sendiri.",
   timeline: [
     {
-      date: "24 November 2022",
+      date: "24 Oktober 2022",
       title: "Pertama bertemu",
       description:
         "Awal kecil yang ternyata menjadi salah satu bagian paling berarti dalam hidup kita.",
     },
     {
-      date: "23 November 2022",
+      date: "23 Oktober 2022",
       title: "Pertama chat",
       description:
         "Percakapan sederhana yang membuat waktu biasa terasa lebih hangat dan menyenangkan.",
     },
     {
-      date: "27 November 2022",
+      date: "27 Oktober 2022",
       title: "Kencan pertama",
       description: "Hari ketika aku sadar betapa nyamannya berada di sisimu",
     },

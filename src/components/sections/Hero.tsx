@@ -14,7 +14,6 @@ export function Hero() {
           src="/images/mylove1.jpeg"
           alt="Background romantis lembut yang bisa diganti"
           fill
-          preload
           loading="eager"
           fetchPriority="high"
           sizes="(min-width: 768px) 50vw, 100vw"
